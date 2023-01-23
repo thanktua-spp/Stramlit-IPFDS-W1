@@ -1,0 +1,6 @@
+pandas==1.5.2
+streamlit
+plotly
+gdown
+statsmodels
+Jinja2==3.1.2
