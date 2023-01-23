@@ -7,7 +7,7 @@ import plotly.express as px
 import streamlit as st
 
 
-#@st.cache
+@st.cache
 def get_data():
     # Download file from Google Drive
     # This file is based on data from: http://insideairbnb.com/get-the-data/
